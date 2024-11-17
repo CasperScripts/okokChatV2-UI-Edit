@@ -1,6 +1,9 @@
 # Casper okokChat UI Edit
 
-﻿
+> **Install:**
+> <br>
+> Naviage To okokChatV2 > Web > style.css and replace the whole file
+ 
 > **Dependencies:**
 > <br>
 > **[okokChatV2 QBCore](https://okok.tebex.io/package/4967999)**
