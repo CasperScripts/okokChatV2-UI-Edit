@@ -1,3 +1,6 @@
+/* UI EDIT MADE BY CASPER 1.casper._ ON DISCORD */
+/* CASPER SCRIPTS https://discord.gg/ZyQgvUVEHJ */
+
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500&display=swap');
 
@@ -53,6 +56,9 @@
   color: rgba(255, 255, 255, 0.9);
 }
 
+/* UI EDIT MADE BY CASPER 1.casper._ ON DISCORD */
+/* CASPER SCRIPTS https://discord.gg/ZyQgvUVEHJ */
+
 input {
   font-size: 1vh;
   display: block;
@@ -104,6 +110,9 @@ input:focus {
 .suggestion {
   margin-bottom: 0.5px;
 }
+
+/* UI EDIT MADE BY CASPER 1.casper._ ON DISCORD */
+/* CASPER SCRIPTS https://discord.gg/ZyQgvUVEHJ */
 
 .chat-message {
   display: block !important;
@@ -161,6 +170,9 @@ input:focus {
   padding: 5px;
   border-radius: 5px;
 }
+
+/* UI EDIT MADE BY CASPER 1.casper._ ON DISCORD */
+/* CASPER SCRIPTS https://discord.gg/ZyQgvUVEHJ */
 
 .fa-comment-alt {
   margin-right: 1ex;
@@ -335,3 +347,6 @@ textarea {
 .hidden.animated {
   transition: opacity 1s;
 }
+
+/* UI EDIT MADE BY CASPER 1.casper._ ON DISCORD */
+/* CASPER SCRIPTS https://discord.gg/ZyQgvUVEHJ */
