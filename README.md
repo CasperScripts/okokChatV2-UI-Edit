@@ -2,7 +2,7 @@
 
 > **Install:**
 > <br>
-> **Naviage To okokChatV2 > Web > style.css and replace the whole file**
+Naviage To okokChatV2 > Web > style.css and replace the whole file
  
 > **Dependencies:**
 > <br>
