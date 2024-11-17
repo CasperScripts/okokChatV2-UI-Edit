@@ -12,7 +12,7 @@
 Discord: [Click Here](https://discord.gg/stevoscripts)
 <br>
 **Check our our paid releases!**: [Click Here](https://casperscripts.tebex.io/)
-Coming Soon ^
+<br> Coming Soon ^
 
 ## Hope You Enjoy!
 https://ibb.co/t4mdQHw
