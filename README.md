@@ -4,7 +4,7 @@
 > **Dependencies:**
 > <br>
 > **[okokChatV2 QBCore](https://okok.tebex.io/package/4967999)**
-> > <br>
+> <br>
 > **[okokChatV2 ESX](https://okok.tebex.io/package/4967994)**
 
 
